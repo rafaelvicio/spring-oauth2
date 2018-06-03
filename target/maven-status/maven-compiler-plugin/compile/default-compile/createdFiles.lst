@@ -1,0 +1,16 @@
+br/com/casadocodigo/livros/DadosDoLivro.class
+br/com/casadocodigo/livros/Livro.class
+br/com/casadocodigo/livros/api/LivrosApiController.class
+br/com/casadocodigo/livros/LivrosController.class
+br/com/casadocodigo/configuracao/seguranca/basic/ConfiguracaoDeSeguranca$ConfiguracaoParaUsuario.class
+br/com/casadocodigo/usuarios/DadosDeRegistro.class
+br/com/casadocodigo/usuarios/Usuario.class
+br/com/casadocodigo/configuracao/seguranca/ResourceOwner.class
+br/com/casadocodigo/usuarios/Usuarios.class
+br/com/casadocodigo/usuarios/UsuariosController.class
+br/com/casadocodigo/livros/Estante.class
+br/com/casadocodigo/configuracao/seguranca/DadosDoUsuarioService.class
+br/com/casadocodigo/configuracao/seguranca/basic/ConfiguracaoDeSeguranca.class
+br/com/casadocodigo/usuarios/Credenciais.class
+br/com/casadocodigo/BookServerApplication.class
+br/com/casadocodigo/configuracao/web/ConfiguracaoMvc.class

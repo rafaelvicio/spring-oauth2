@@ -1,0 +1,15 @@
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/usuarios/DadosDeRegistro.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/livros/Livro.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/usuarios/Usuarios.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/livros/DadosDoLivro.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/livros/LivrosController.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/configuracao/seguranca/basic/ConfiguracaoDeSeguranca.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/usuarios/Credenciais.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/usuarios/Usuario.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/livros/api/LivrosApiController.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/configuracao/seguranca/ResourceOwner.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/usuarios/UsuariosController.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/livros/Estante.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/configuracao/web/ConfiguracaoMvc.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/configuracao/seguranca/DadosDoUsuarioService.java
+/home/rafaelvicio/dev/livro-spring-oauth2/capitulo-3/bookserver/src/main/java/br/com/casadocodigo/BookServerApplication.java
